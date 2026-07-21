@@ -16,7 +16,7 @@ Crie um site one-page responsivo para a empresa **HELP SOLUÇÕES**, especializa
 **Contatos da empresa:**
 - WhatsApp: (65) 99939-1233 → `https://wa.me/5565999391233`
 - E-mail: help.solucoes.empreendimentos@gmail.com
-- Logo: [inserir URL da logo da águia aqui]
+- Logo: 
 
 **Seções obrigatórias:**
 1. **Navegação fixa** — logo da empresa + botão "Defesa Imediata" sempre visível
